@@ -1,5 +1,3 @@
-# All Remixes
-
 # [All Remixes](https://qiplex.com/software/all-remixes/)
 
 ### Discover all remixes of the songs you love!
